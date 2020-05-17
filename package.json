@@ -1,0 +1,25 @@
+{
+  "name": "frogjump",
+  "version": "1.0.0",
+  "description": "frog-jump",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgar256/FrogJump.git"
+  },
+  "keywords": [
+    "frog-jump"
+  ],
+  "author": "Edgar Tinkamanyire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edgar256/FrogJump/issues"
+  },
+  "homepage": "https://github.com/Edgar256/FrogJump#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
